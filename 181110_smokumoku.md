@@ -2,11 +2,13 @@
 
 ## 会社や業務で普段やっていること
 - これまでMicrosoft依存だった業務システムをWebシステムへ切替えることを目的に、プログラミングを一から勉強中
-- 従来　Oracle, Excel, VBA　→　今後　JavaScript, Node.js, Express, MariaDB
+- 従来　Oracle, Access, Excel, SQL, VBA　→　今後　MariaDB, SQLite, JavaScript, Node.js, Express,等
 
 ## 今日やること
-- 
-## (option) もしかしたら相談するかもしれないこと
+- Express でのサンプル を自社用に改修する
+（項目増やす/レコード一覧表示のデータベースつなぎこみ）
 
+## (option) もしかしたら相談するかもしれないこと
+- cli での　PR
 ## 今日の成果
 
